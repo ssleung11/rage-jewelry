@@ -1,0 +1,103 @@
+body {
+max-width: 100%;
+max-height: 100%;
+
+
+}
+
+h1 {
+
+
+}
+
+.join{
+
+
+}
+h2 {
+
+font-family: Garamond;
+font-style: italic;
+font-weight: normal;
+font-size: 24px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #333132;
+
+}
+
+p {
+
+font-family: Garamond;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+letter-spacing: -0.015em;
+color: #333132;
+
+}
+
+button {
+border-radius: 6px;
+font-family: Garamond;
+font-style: italic;
+font-weight: bold;
+font-size: 24px;
+line-height: 24px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+}
+
+.header{
+	width: 100%;
+	height: 15vh;
+align-content: center;
+
+}
+
+.social{
+
+
+}
+
+
+#signup{
+position: absolute;
+width: 270px;
+height: 48px;
+left: -289px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+.button1{ /*signup button*/
+background: linear-gradient(0deg, #C686A4, #C686A4), #DAD9D7;
+
+position: absolute;
+width: 217px;
+height: 47px;
+left: 566px;
+top: 769px;
+}
+
+.button2{ /*contact us button*/
+position: absolute;
+width: 217px;
+height: 47px;
+left: 581px;
+top: 306px;
+
+}
